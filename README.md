@@ -8,11 +8,13 @@ I am an **System** Informatics Student at STKOM Sapta Computer Balangan <img src
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZ-Zaini&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
 </p>
 
+## 🔥 My contribution streak
+
+<p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AZ-Zaini&theme=tokyonight"/>
+</p>
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=AZ-Zaini&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
-
-## MUSIC 🎵
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ey2b13yv4kewqudb01ql57ttu&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=ey2b13yv4kewqudb01ql57ttu&redirect=true)
