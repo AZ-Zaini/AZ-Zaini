@@ -1,6 +1,6 @@
-### Hi , i am Akhmad Jaini 👋
+### Hello there, My name is Akhmad Jaini <img src="https://media.giphy.com/media/ekeXXN8CG7xEavr6rP/giphy.gif" width="20px">  <img src="https://media.giphy.com/media/VCst7uRnCOx6asgvqj/giphy.gif" width="20px">
 
-![banner github](https://user-images.githubusercontent.com/61135648/94995688-89512680-05d2-11eb-8576-f0bf95fca33d.png)
+I am an **System** Informatics Student at STKOM Sapta Computer Balangan <img src="https://media.giphy.com/media/cAcofT0wwuRnwZ8PGE/giphy.gif" width="20px">
 
 ## GITHUB STATS 📈
 <p>
@@ -14,4 +14,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AZ-Zaini&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
 
-
+## MUSIC 🎵
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ey2b13yv4kewqudb01ql57ttu&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=ey2b13yv4kewqudb01ql57ttu&redirect=true)
