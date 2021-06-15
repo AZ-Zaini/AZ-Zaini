@@ -4,8 +4,10 @@ I am an **System** Informatics Student at STKOM Sapta Computer Balangan <img src
 
 ## GITHUB STATS 📈
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=AZ-Zaini&show_icons=true&hide_border=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZ-Zaini&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AZ-Zaini&show_icons=true&hide_border=true&theme=radical" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZ-Zaini&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" /> -->
+  <img height="220em" src = "https://github-readme-stats.vercel.app/api?username=az-zaini&show_icons=true&theme=tokyonight&line_height=33&hide_border=true&count_private=true">
+  <img height="220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=az-zaini&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true">
 </p>
 
 ## My contribution streak 🔥
