@@ -14,11 +14,6 @@ I am an **System** Informatics Student at STKOM Sapta Computer Balangan <img src
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AZ-Zaini&theme=tokyonight"/>
 </p>
 
-<!-- ## CODING ACTIVITY
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=az-zaini&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p> -->
-
 ## GITHUB PROFILE TROPHY 🏆
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=AZ-Zaini&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
