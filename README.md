@@ -2,7 +2,7 @@
 
 I am an **System** Informatics Student at STKOM Sapta Computer Balangan <img src="https://media.giphy.com/media/cAcofT0wwuRnwZ8PGE/giphy.gif" width="20px">
 
-**Check My :**
+**Look or Download My :**
 
 [![website](https://img.shields.io/badge/CV%20%26%20PORTOFOLIO%20PROJECT-Akhmad%20Jaini-2648ff?style=flat-square&logo=google-chrome)](https://github.com/AZ-Zaini/AZ-Zaini/blob/main/CV%20%26%20PORTOFOLIO%20PROJECT%20-%20AKHMAD%20JAINI.pdf)
 
