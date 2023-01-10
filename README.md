@@ -1,11 +1,5 @@
 ### Hello there, My name is Akhmad Zaini
 
-I am an **System** Informatics Student at STKOM Sapta Computer Balangan
-
-**Look or Download My :**
-
-[![website](https://img.shields.io/badge/CV%20%26%20PORTOFOLIO%20PROJECT-Akhmad%20Jaini-2648ff?style=flat-square&logo=google-chrome)](https://github.com/AZ-Zaini/AZ-Zaini/blob/main/CV%20%26%20PORTOFOLIO%20PROJECT%20-%20AKHMAD%20JAINI.pdf)
-
 ## GITHUB STATS 📈
 
 <p>
