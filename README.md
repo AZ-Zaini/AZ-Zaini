@@ -5,8 +5,8 @@
 ## GITHUB STATS 📈
 
 <p>
- <img height="270em" src="https://github-readme-stats.vercel.app/api?username=az-zaini&show_icons=true&hide_border=true&line_height=33&theme=tokyonight">
- <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=az-zaini&&langs_count=6&theme=tokyonight&hide_border=true">
+ <img height="270em" src="https://github-readme-stats.vercel.app/api?username=az-zaini&show_icons=true&hide_border=true&line_height=33&theme=cobalt">
+ <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=az-zaini&&langs_count=6&theme=cobalt&hide_border=true">
 </p>
 
 ## My contribution streak 🔥
