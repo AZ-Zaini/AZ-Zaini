@@ -12,7 +12,7 @@
 ## My contribution streak 🔥
 
 <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AZ-Zaini&theme=tokyonight"/>
+    <img width="550em" src="https://github-readme-streak-stats.herokuapp.com/?user=AZ-Zaini&theme=tokyonight"/>
 </p>
 
 ## GITHUB PROFILE TROPHY 🏆
