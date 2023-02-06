@@ -17,7 +17,7 @@
 
 ## CODING ACTIVITY
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azaini&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img width="550em" src="https://github-readme-stats.vercel.app/api/wakatime?username=azaini&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ## GITHUB PROFILE TROPHY 🏆
