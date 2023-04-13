@@ -3,7 +3,7 @@ Nama : Akhmad Jaini, S,Kom
 </br>
 No/Wa : 082214969656
 </br>
-Alamat : Halong, Kab. Balangan, Prov. Balangan
+Alamat : Halong, Kab. Balangan, Prov. Kalimantan Selatan
 </br>
 
 ## GITHUB STATS 📈
