@@ -1,6 +1,10 @@
-### Hello there, My name is Akhmad Zaini
-
-
+###
+Nama : Akhmad Jaini, S,Kom
+</br>
+No/Wa : 082214969656
+</br>
+Alamat : Halong, Kab. Balangan, Prov. Balangan
+</br>
 
 ## GITHUB STATS 📈
 
