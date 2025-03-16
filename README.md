@@ -1,7 +1,7 @@
 ###
 Name : Akhmad Jaini, S,Kom
 </br>
-No./Wa : 082214969656
+No./Wa : +62 82214969656
 </br>
 Address : Halong, Kab. Balangan, Prov. Kalimantan Selatan
 </br>
