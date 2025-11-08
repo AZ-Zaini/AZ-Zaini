@@ -1,5 +1,5 @@
 ###
-Name : Akhmad Jaini, S,Kom
+Name : Akhmad Jaini
 </br>
 No./Wa : +62 82214969656
 </br>
