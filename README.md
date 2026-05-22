@@ -1,7 +1,7 @@
 ###
 Name : Akhmad Jaini
 </br>
-No./Wa : +62 82214969656
+Email : ajainioffice@gmail.com
 </br>
 Address : Halong, Kab. Balangan, Prov. Kalimantan Selatan
 </br>
